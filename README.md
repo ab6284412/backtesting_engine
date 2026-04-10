@@ -12,5 +12,4 @@ A lightweight, modular Python framework for backtesting trading strategies again
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/backtester-repo.git](https://github.com/yourusername/backtester-repo.git)
-   cd backtester-repo
+   git clone [https://github.com/ab6284412/backtesting_engine.git]
